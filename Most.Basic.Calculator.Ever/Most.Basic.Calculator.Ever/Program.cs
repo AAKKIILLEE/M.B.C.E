@@ -33,6 +33,7 @@ namespace Most.Basic.Calculator.Ever
                 case "-": r = a - b; Console.WriteLine(a + "-" + b + "=" + r); break;
                 case "*": r = a * b; Console.WriteLine(a + "*" + b + "=" + r); break;
                 case "/": r = a / b; Console.WriteLine(a + "/" + b + "=" + r); break;
+                default:  Console.WriteLine("something went wrong");
               }
 
             
@@ -45,3 +46,4 @@ namespace Most.Basic.Calculator.Ever
         }
     }
 }
+

@@ -1,0 +1,7 @@
+C:\Users\Aca\Documents\Kodovi\Most.Basic.Calculator.Ever\Most.Basic.Calculator.Ever\obj\Debug\Most.Basic.Calculator.Ever.csproj.AssemblyReference.cache
+C:\Users\Aca\Documents\Kodovi\Most.Basic.Calculator.Ever\Most.Basic.Calculator.Ever\obj\Debug\Most.Basic.Calculator.Ever.csproj.CoreCompileInputs.cache
+C:\Users\Aca\Documents\Kodovi\Most.Basic.Calculator.Ever\Most.Basic.Calculator.Ever\bin\Debug\Most.Basic.Calculator.Ever.exe.config
+C:\Users\Aca\Documents\Kodovi\Most.Basic.Calculator.Ever\Most.Basic.Calculator.Ever\bin\Debug\Most.Basic.Calculator.Ever.exe
+C:\Users\Aca\Documents\Kodovi\Most.Basic.Calculator.Ever\Most.Basic.Calculator.Ever\bin\Debug\Most.Basic.Calculator.Ever.pdb
+C:\Users\Aca\Documents\Kodovi\Most.Basic.Calculator.Ever\Most.Basic.Calculator.Ever\obj\Debug\Most.Basic.Calculator.Ever.exe
+C:\Users\Aca\Documents\Kodovi\Most.Basic.Calculator.Ever\Most.Basic.Calculator.Ever\obj\Debug\Most.Basic.Calculator.Ever.pdb
